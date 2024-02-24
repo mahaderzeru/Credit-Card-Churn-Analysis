@@ -1,2 +1,2 @@
-Here is the link to my Tableau Dashboard for this project, it is also linked in the presentation.
+ In this personal project & presentation, analyzed a Kaggle dataset for a fictional credit card company to understand customer attrition trends, revealing key insights into factors influencing customer behavior. Conducted data cleaning and analysis, utilizing Python libraries (Pandas, NumPy, Seaborn) to preprocess data, generate visualizations, and draw actionable conclusions for the credit card company. Here is the link to my Tableau Dashboard for this project, it is also linked in the presentation.
 https://mahaderzeru.github.io/Credit-Card-Churn-Analysis/
