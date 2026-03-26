@@ -66,8 +66,6 @@ The dashboard includes:
 
 ## 💡 Key Findings
 
-> *(Update this section with your actual numbers after reviewing your notebook)*
-
 - Churned customers showed significantly lower transaction counts and amounts in the months prior to leaving
 - Customers who contacted support more frequently were more likely to churn, suggesting unresolved service issues
 - Certain income brackets and card categories had disproportionately higher attrition rates
